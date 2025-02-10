@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sakina</h1>
+<h1 align="center">Hello, I'm Sakina</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakina1303&label=Profile%20views&color=0e75b6&style=flat" alt="sakina1303" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakina1303" alt="sakina1303" /></a> </p>
 
-- 🌱 I’m currently learning **React, DSA, nodejs**
+- 🌱 I’m currently learning: **React, DSA, nodejs**
 
-- 💬 Ask me about **c,c++,python,html,css,javascript**
+- 💬 Ask me abou:t **C,C++,python,html,css,javascript**
 
 - 📫 How to reach me **sakena1303@gmail.com**
 
