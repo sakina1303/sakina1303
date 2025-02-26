@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **React, DSA, Node.js**
 
-- 💬 Ask me about: **C, C++, Python, Html, Css, Javascript**
+- 💬 Ask me about: **C, C++, Python, Html, Css, Javascript, React**
 
 - 📫 How to reach me **sakena1303@gmail.com**
 
