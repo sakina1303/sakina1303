@@ -30,3 +30,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakina1303&" alt="sakina1303" /></p>
 
+<h3 align="left">Hacktoberfest 2024 Badges:</h3>
+<p> Successfully completed <strong>Hacktoberfest 2024</strong> as an active open-source contributor!</p>
+<p align="left">
+  <img src="" alt="Hacktoberfest 2024 Badge" width="120"/>
+  <img src="https://your-image-link-2" alt="Hacktoberfest 2024 Badge" width="120"/>
+  <img src="https://your-image-link-3" alt="Hacktoberfest 2024 Badge" width="120"/>
+  <img src="https://your-image-link-4" alt="Hacktoberfest 2024 Badge" width="120"/>
+</p>
+
