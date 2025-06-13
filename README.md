@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakina</h1>
+<h1 align="center">Hey! I'm Sakina</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakina1303&label=Profile%20views&color=0e75b6&style=flat" alt="sakina1303" /> </p>
