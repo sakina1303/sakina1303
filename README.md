@@ -23,10 +23,6 @@
 
 
 <p>![image](https://github.com/user-attachments/assets/fd9f6278-9322-402e-8590-8a5b5619ce95)</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakina1303&show_icons=true&locale=en&layout=compact" alt="sakina1303" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakina1303&show_icons=true&locale=en" alt="sakina1303" /></p>
 <h3 align="left">Hacktoberfest 2024 Badges:</h3>
 <p> Successfully completed <strong>Hacktoberfest 2024</strong> as an active open-source contributor!</p>
 <p align="left">
@@ -35,6 +31,11 @@
 <img src="hack2.webp" alt="Hacktoberfest 2024 Badge 2" width="120" />
 <img src="hack3.webp" alt="Hacktoberfest 2024 Badge 3" width="120" />
 <img src="hack4.webp" alt="Hacktoberfest 2024 Badge 4" width="120" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakina1303&show_icons=true&locale=en&layout=compact" alt="sakina1303" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakina1303&show_icons=true&locale=en" alt="sakina1303" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakina1303&" alt="sakina1303" /></p>
 
