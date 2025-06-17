@@ -34,7 +34,7 @@
 <p> Successfully completed <strong>Hacktoberfest 2024</strong> as an active open-source contributor!</p>
 <p align="left">
   <img src="" alt="Hacktoberfest 2024 Badge" width="120"/>
-  <img src="https://your-image-link-2" alt="Hacktoberfest 2024 Badge" width="120"/>
+  <img src="hack1.wepb" alt="Hacktoberfest 2024 Badge" width="120"/>
   <img src="https://your-image-link-3" alt="Hacktoberfest 2024 Badge" width="120"/>
   <img src="https://your-image-link-4" alt="Hacktoberfest 2024 Badge" width="120"/>
 </p>
