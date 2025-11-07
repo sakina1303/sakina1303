@@ -2,8 +2,17 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sakina1303&label=Profile%20Views&color=00bfff&style=flat-square" alt="Profile views" />
 </p>
+<p align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
+ <p align="center">
+  <!-- Animated Waving Text with Funky Font -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Sakina&fontSize=60&animation=fadeIn&font=Comic%20Neue&gradient=ffb6c1,ffc0cb" alt="Animated Hey! I'm Sakina" />
+</p>
 
-<h1 align="center">Hey! I'm Sakina</h1>
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="150" alt="Octocat" />
+</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Open-Source+Contributor;UI/UX+Enthusiast&font=Roboto+Mono&size=28&duration=2000&pause=1000&color=FF6EC7&center=true&width=600" alt="Sliding Text" />
