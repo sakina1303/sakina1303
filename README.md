@@ -3,9 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=sakina1303&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile views" />
 </p>
 <p align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
- <p align="center">
-  <!-- Animated Waving Text with Funky Font -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Sakina&fontSize=60&animation=fadeIn&font=Comic%20Neue&gradient=ffb6c1,ffc0cb" alt="Animated Hey! I'm Sakina" />
+<p align="center">
+  <!-- Animated Waving Text in a curvy, visible font -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Sakina&fontSize=60&animation=fadeIn&font=Pacifico&gradient=ffb6c1,ffc0cb" 
+    alt="Animated Hey! I'm Sakina" 
+  />
 </p>
 
 <p align="center">
