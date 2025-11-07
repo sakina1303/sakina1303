@@ -60,10 +60,11 @@
   <img src="hack1.webp" alt="Hacktoberfest 2024 badge 2" width="110" />
   <img src="hack2.webp" alt="Hacktoberfest 2024 badge 3" width="110" />
   <img src="hack3.webp" alt="Hacktoberfest 2024 badge 3" width="110" />
-    <img src="hack4.webp" alt="Hacktoberfest 2024 badge 3" width="110" />
+    <img src="hack4.webp" alt="Hacktoberfest 2024 badge 3" width="110" /> <br/>
   <!-- 2025 badges (new) -->
   <img src="lvl0-human.webp" alt="Hacktoberfest 2025 badge 1" width="110" />
   <img src="lvl1-human.webp" alt="Hacktoberfest 2025 badge 2" width="110" />
+  <img src="lvl2-human.webp" alt="Hacktoberfest 2025 badge 2" width="110" />
   <img src="lvl3-human.webp" alt="Hacktoberfest 2025 badge 3" width="110" />
   <img src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp" alt="Hacktoberfest 2025 badge 3" width="110" />
   <img src="lvl5-human.webp" alt="Hacktoberfest 2025 badge 3" width="110" />
