@@ -47,20 +47,33 @@
 <hr style="border:none;border-top:1px solid #eee;margin:40px 0;" />
 
 <!-- ==================== HACKTOBERFEST ==================== -->
-<h2 align="center">Hacktoberfest 2024</h2>
-<p align="center">
-  Proud <strong>Hacktoberfest 2024 Finisher</strong> and active open-source contributor!
+<!-- ==================== HACKTOBERFEST ==================== -->
+<h2 align="center">Hacktoberfest</h2>
+
+<p align="center" style="margin-bottom:6px;">
+  Proud <strong>Hacktoberfest 2024 &amp; 2025 Finisher</strong> — <strong>Super Contributor</strong>
 </p>
 
-<p align="center">
-  <img src="hack.webp" width="110" />
-  <img src="hack1.webp" width="110" />
-  <img src="hack2.webp" width="110" />
-  <img src="hack3.webp" width="110" />
-  <img src="hack4.webp" width="110" />
+<p align="center" style="margin-top:6px;">
+  <!-- 2024 badges (existing) -->
+  <img src="hack.webp" alt="Hacktoberfest 2024 badge 1" width="110" />
+  <img src="hack1.webp" alt="Hacktoberfest 2024 badge 2" width="110" />
+  <img src="hack2.webp" alt="Hacktoberfest 2024 badge 3" width="110" />
+  <img src="hack3.webp" alt="Hacktoberfest 2024 badge 3" width="110" />
+    <img src="hack4.webp" alt="Hacktoberfest 2024 badge 3" width="110" />
+  <!-- 2025 badges (new) -->
+  <img src="lvl0-human.webp" alt="Hacktoberfest 2025 badge 1" width="110" />
+  <img src="lvl1-human.webp" alt="Hacktoberfest 2025 badge 2" width="110" />
+  <img src="lvl3-human.webp" alt="Hacktoberfest 2025 badge 3" width="110" />
+  <img src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp" alt="Hacktoberfest 2025 badge 3" width="110" />
+  <img src="lvl5-human.webp" alt="Hacktoberfest 2025 badge 3" width="110" />
 </p>
 
-<hr style="border:none;border-top:1px solid #eee;margin:40px 0;" />
+<!-- Optional shield-style badge showing Super Contributor -->
+<p align="center" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025%20%E2%80%A2%20Super%20Contributor-0ea5e9?style=for-the-badge&logo=github" alt="Hacktoberfest 2025 - Super Contributor" />
+</p>
+
 
 <!-- ==================== GITHUB STATS ==================== -->
 <h2 align="center">GitHub Analytics</h2>
