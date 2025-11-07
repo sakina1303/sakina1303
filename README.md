@@ -1,42 +1,93 @@
-<h1 align="center">Hey! I'm Sakina</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakina1303&label=Profile%20views&color=0e75b6&style=flat" alt="sakina1303" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakina1303" alt="sakina1303" /></a> </p>
-
-- 🌱 I’m currently learning more about **Backend development**
-
-- 💬 Ask me about **C, C++, Python, Html, Css, Javascript, React, Vue**
-
-- 📫 How to reach me **sakena1303@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<!-- ==================== HEADER ==================== -->
 <p align="left">
-<a href="https://linkedin.com/in/sakina farukh ahemad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakina farukh ahemad" height="30" width="40" /></a>
-<a href="https://instagram.com/sakinaa__13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakinaa__13" height="30" width="40" /></a>
-<a href="https://discord.gg/sakina00080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sakina00080" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sakina1303&label=Profile%20Views&color=00bfff&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools: </h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hey! I'm Sakina</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Open-Source+Contributor;UI/UX+Enthusiast&font=Roboto+Mono&size=28&duration=2000&pause=1000&color=FF6EC7&center=true&width=600" alt="Sliding Text" />
+</p>
 
+<hr style="border:none;border-top:1px solid #eee;margin:40px 0;" />
 
-<h3 align="left">Hacktoberfest 2024 Badges:</h3>
-<p> Successfully completed <strong>Hacktoberfest 2024</strong> as an active open-source contributor!</p>
-<p align="left">
-  <img src="hack.webp" alt="Hacktoberfest 2024 Badge 1" width="120" />
- <img src="hack1.webp" alt="Hacktoberfest 2024 Badge 1" width="120" />
-<img src="hack2.webp" alt="Hacktoberfest 2024 Badge 2" width="120" />
-<img src="hack3.webp" alt="Hacktoberfest 2024 Badge 3" width="120" />
-<img src="hack4.webp" alt="Hacktoberfest 2024 Badge 4" width="120" />
+<!-- ==================== ABOUT ME ==================== -->
+<h2 align="center">About Me</h2>
 
+<p align="center" style="max-width:700px;margin:auto;line-height:1.8em;font-family:'Roboto Mono', monospace;font-size:16px;">
+  Currently diving into <strong>Full-Stack Development</strong><br>
+  Passionate about crafting <strong>aesthetic, responsive, and user-friendly interfaces</strong><br>
+  Proficient in <strong>C, C++, Python, HTML, CSS, JavaScript, TypeScript, React, React Native, Vue, Node.js, MySQL, Supabase, etc.</strong><br><br>
+  <strong>Feel free to reach out!</strong><br>
+  <strong>Always eager to learn new technologies</strong><br>
+  <strong>Open to collaborations and projects</strong>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakina1303&show_icons=true&locale=en&layout=compact" alt="sakina1303" /></p>
+<hr style="border:none;border-top:1px solid #eee;margin:40px 0;" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakina1303&show_icons=true&locale=en" alt="sakina1303" /></p>
+<!-- ==================== CONNECT ==================== -->
+<h2 align="center">Connect with Me</h2>
 
+<p align="center">
+  <a href="https://linkedin.com/in/sakina-farukh-ahemad" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+  <a href="https://instagram.com/sakinaa__13" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" /></a>
+  <a href="https://discord.gg/sakina00080" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="48" /></a>
+  <a href="mailto:sakena1303@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
+</p>
 
+<hr style="border:none;border-top:1px solid #eee;margin:40px 0;" />
 
+<!-- ==================== TECH STACK ==================== -->
+<h2 align="center">Tech Stack</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,reactnative,vue,nodejs,mysql,supabase,tailwind,git,vscode" />
+</p>
+
+<hr style="border:none;border-top:1px solid #eee;margin:40px 0;" />
+
+<!-- ==================== HACKTOBERFEST ==================== -->
+<h2 align="center">Hacktoberfest 2024</h2>
+<p align="center">
+  Proud <strong>Hacktoberfest 2024 Finisher</strong> and active open-source contributor!
+</p>
+
+<p align="center">
+  <img src="hack.webp" width="110" />
+  <img src="hack1.webp" width="110" />
+  <img src="hack2.webp" width="110" />
+  <img src="hack3.webp" width="110" />
+  <img src="hack4.webp" width="110" />
+</p>
+
+<hr style="border:none;border-top:1px solid #eee;margin:40px 0;" />
+
+<!-- ==================== GITHUB STATS ==================== -->
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakina1303&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakina1303&layout=compact&theme=tokyonight" width="41%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakina1303&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+</p>
+
+<hr style="border:none;border-top:1px solid #eee;margin:40px 0;" />
+
+<!-- ==================== RECENT ACTIVITY ==================== -->
+<h2 align="center">Recent Activity</h2>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<hr style="border:none;border-top:1px solid #eee;margin:40px 0;" />
+
+<!-- ==================== LIVE DEVELOPER METRICS ==================== -->
+<h2 align="center">Live Developer Metrics</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakina1303&theme=tokyonight" width="90%" alt="Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakina1303&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
+</p>
