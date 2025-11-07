@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Open-Source+Contributor;UI/UX+Enthusiast&font=Roboto+Mono&size=28&duration=2000&pause=1000&color=FF6EC7&center=true&width=600" alt="Sliding Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Open-Source+Contributor;UI/UX+Enthusiast&font=Roboto+Mono&size=28&duration=2000&pause=1000&color=ffb6c1&center=true&width=600" alt="Sliding Text" />
 </p>
 
 <p align="center">
