@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sakina1303&label=Profile%20Views&color=00bfff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sakina1303&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile views" />
 </p>
 <p align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
  <p align="center">
