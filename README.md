@@ -24,7 +24,7 @@
 <p align="center" style="max-width:700px;margin:auto;line-height:1.8em;font-family:'Roboto Mono', monospace;font-size:16px;">
   Currently diving into <strong>Full-Stack Development</strong><br>
   Passionate about crafting <strong>aesthetic, responsive, and user-friendly interfaces</strong><br>
-  Proficient in <strong>C, C++, Python, HTML, CSS, JavaScript, TypeScript, React, Vue, Node.js, MySQL, Supabase, etc.</strong><br>
+  Proficient in <strong>C, C++, Python, HTML, CSS, JavaScript, TypeScript, React, React Native, Vue, Node.js, MySQL, Supabase, etc.</strong><br>
   <strong>Feel free to reach out!</strong><br>
   <strong>Always eager to learn new technologies</strong><br>
   <strong>Open to collaborations and projects</strong>
@@ -48,8 +48,10 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,reactnative,vue,nodejs,mysql,supabase,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,vue,nodejs,mysql,supabase,tailwind,git,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" alt="React Native" />
 </p>
+
 
 <div style="margin:40px 0;"></div>
 
