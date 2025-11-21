@@ -11,9 +11,9 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="150" alt="Octocat" />
-</p>
+</p> -->
 
 
 
